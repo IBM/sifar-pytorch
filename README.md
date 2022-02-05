@@ -36,14 +36,14 @@ Please refer to https://github.com/IBM/action-recognition-pytorch for how to pre
 
 ## Training and Evaluation
 
-| Model | Frames | super image| Image Size | Top1| Top5| FLOPs (G) | link |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| SIFAR-B-7 (`sifar_base_patch4_window7_224`)   |  8 | 3x3 | 224 | | |138 |  |
-| SIFAR-B-12 (`sifar_base_patch4_window12_192_3x3`)  |  8 | 3x3 | 192 | | | 106 |
-| SIFAR-B-14 (`sifar_base_patch4_window14_224_3x3`)  |  8 | 3x3 | 224 | | | 147 |[a](https://github.com/IBM/sifar-pytorch/releases) |
-| SIFAR-B-12† (`sifar_base_patch4_window12_192_4x4`) | 16 | 4x4 | 192 | | | 189 | |
-| SIFAR-B-14† (`sifar_base_patch4_window12_224_4x4`) | 16 | 4x4 | 224 | | | 263 | |
-| SIFAR-B-12‡ (`sifar_base_patch4_window12_192_3x3`) | 8  | 3x3 | 384 | | | 423 | |
+| Model | Frames | super image| Image Size | Model Size| FLOPs (G) |
+| --- | --- | --- | --- | --- | --- |
+| SIFAR-B-7 (`sifar_base_patch4_window7_224`)   |  8 | 3x3 | 224 |  |138 |
+| SIFAR-B-12 (`sifar_base_patch4_window12_192_3x3`)  |  8 | 3x3 | 192 | | 106 |
+| SIFAR-B-14 (`sifar_base_patch4_window14_224_3x3`)  |  8 | 3x3 | 224 | | 147 |
+| SIFAR-B-12† (`sifar_base_patch4_window12_192_4x4`) | 16 | 4x4 | 192 | | 189 |
+| SIFAR-B-14† (`sifar_base_patch4_window12_224_4x4`) | 16 | 4x4 | 224 | | 263 |
+| SIFAR-B-12‡ (`sifar_base_patch4_window12_192_3x3`) | 8  | 3x3 | 384 | | 423 |
 
 The table above lists the configurations of different models supported by SIFAR. When training or testing a model, please make sure that the input arguments match a confiuration in the table.  
 
