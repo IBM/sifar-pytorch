@@ -4,7 +4,7 @@ This repository contains a PyTorch implementation of SIFAR, an approach that rep
 
 ![sifar image](https://github.com/IBM/sifar-pytorch/tree/main/sifar.png)
 
-For details please see the work, "Can An Image classifier Suffice for Action Recognition?" (https://openreview.net/pdf?id=qhkFX-HLuHV) by Quanfu Fan, Richard Chen and Rameswar Panda.
+For details please see the work, !["Can An Image classifier Suffice for Action Recognition?"] (https://openreview.net/pdf?id=qhkFX-HLuHV) by Quanfu Fan, Richard Chen and Rameswar Panda.
 
 If you use this code for a paper please cite:
 
