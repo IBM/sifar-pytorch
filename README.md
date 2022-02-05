@@ -2,7 +2,7 @@
 
 This repository contains a PyTorch implementation of SIFAR, an approach that repurposes image classifiers for efficient action recognition by rearranging input video frames into super images. 
 
-![alt text](https://github.com/IBM/sifar-pytorch/tree/master/sifar.png)
+![sifar image](https://github.com/IBM/sifar-pytorch/tree/main/sifar.png)
 
 For details please see the work, "Can An Image classifier Suffice for Action Recognition?" (https://openreview.net/pdf?id=qhkFX-HLuHV) by Quanfu Fan, Richard Chen and Rameswar Panda.
 
