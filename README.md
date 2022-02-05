@@ -4,7 +4,7 @@ This repository contains a PyTorch implementation of SIFAR, an approach that rep
 
 ![sifar image](./sifar.png)
 
-For details please see the work, [Can An Image classifier Suffice for Action Recognition?] (https://openreview.net/pdf?id=qhkFX-HLuHV) by Quanfu Fan, Richard Chen and Rameswar Panda.
+For details please see the work, [Can An Image classifier Suffice for Action Recognition?](https://openreview.net/pdf?id=qhkFX-HLuHV) by Quanfu Fan, Richard Chen and Rameswar Panda.
 
 If you use this code for a paper please cite:
 
@@ -28,7 +28,7 @@ git clone https://github.com/IBM/sifar-pytorch
 pip install -r requirement.txt
 ```
 
-To load video input, you need to install the PyAV package (https://pyav.org/docs/develop/overview/installation.htmlgit).
+To load video input, you need to install the [PyAV package](https://pyav.org/docs/develop/overview/installation.htmlgit).
 
 # Data Preparation
 Please refer to https://github.com/IBM/action-recognition-pytorch for how to prepare action recognition benchmark datasets such as Kinetics400 and Something-to-Something. For Kinetics400, we used the urls provided at [this link](https://github.com/youngwanLEE/VoV3D/blob/main/DATA.md#kinetics-400) to download the data.
