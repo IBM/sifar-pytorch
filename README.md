@@ -85,7 +85,7 @@ To evaluate a model, add '--eval' to a training script and specify the path to t
 |            | SIFAR-B-14   | 8  | 80.2 | 94.4 | l[ink](releases/sifar_base_patch4_window14_224_3x3-kinetics400_f8_pe_aug.pth)  |
 |            | SIFAR-B-14†  | 16 | 81.8 | 95.2 | [link](releases/sifar_base_patch4_window14_224_4x4-kinetics400_f16_pe_aug_v1.pth) |
 | SSV2     | SIFAR-B-12   |  8 | 60.8 | 87.3 | - |
-|            | SIFAR-B-12†  | 16 | 61.9 |  | - |
+|            | SIFAR-B-12†  | 16 | 61.4 | 87.6 | - |
 |            | SIFAR-B-14   | 8  | 61.6 | 87.9 | [link](releases/sifar_base_patch4_window14_224_3x3-st2stv2_kineticsft_f8_pe_aug.pth) |
 |            | SIFAR-B-14†  | 16 | 62.6 | 88.5 | [link](releases/sifar_base_patch4_window14_224_4x4-st2stv2_f16_kineticsft_pe_aug_v1.pth) |
 
