@@ -25,7 +25,7 @@ git clone https://github.com/IBM/sifar-pytorch
 ```
 ## Requirements
 ```
-pip install -r requirement.txt
+pip install -r requirements.txt
 ```
 
 To load video input, you need to install the [PyAV package](https://pyav.org/docs/develop/overview/installation.htmlgit).
